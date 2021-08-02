@@ -14,13 +14,11 @@
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles": [
-			{
-				"network": "Github",
-				"username": "https://github.com/vinay243",
-				"url": "https://www.github.com/<handle>/"
-			},
-		]
+		"profiles": [{
+			"network": "Github",
+			"username": "https://github.com/vinay243",
+			"url": "https://www.github.com/<handle>/"
+		}]
 	},
 	"work": [{
 		"company": "---",
@@ -63,15 +61,14 @@
 	}],
 	"skills": [{
 		"level": "Intermidiate",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++",]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Volleyball", "Tabletennis"]
-	}
-  {
-    "name": "Drawing",
-    "keywords":["Graphite sketching","charcol sketching"]
-  }],
+	}, {
+		"name": "Drawing",
+		"keywords": ["Graphite sketching", "charcol sketching"]
+	}],
 	"references": []
 }
