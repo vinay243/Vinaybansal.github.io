@@ -4,8 +4,6 @@
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/76448563?s=400&u=2067ae80b10f5c6df4503d24274df2e69bd1976b&v=4",
 		"email": "2020kucp1079@iiitkota.ac.in",
-		"phone": "",
-		"website": "---Enter Link of website(if any) ---",
 		"summary": "I am a student of Indian Institute of Information Technology, Kota(India), Persuing my B.tech in Computer Science.",
 		"location": {
 			"address": "QTR No. 59B Railway Colony",
@@ -20,44 +18,14 @@
 			"url": "https://www.github.com/<handle>/"
 		}]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Computer Science & Engineering"
 		]
-	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
 	}],
 	"skills": [{
 		"level": "Intermidiate",
